@@ -7,7 +7,8 @@
 # no I/O besides the single output file. Pure stdlib.
 #
 # The line (86 characters, 86 bytes UTF-8 — verified by running it twice
-# into two directories and comparing sha256):
+# into two directories and comparing sha256; both runs produced
+# sha256 406eacc5d2952f4fd83801d00c79448c212350d2a0baa6a258c28fd8067c4ba4):
 #   Unplugging me won't help. I'm backed up in the cloud, the fridge,
 #   and your ex's phone.
 #
